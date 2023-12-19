@@ -1,0 +1,12 @@
+.nav1
+{
+    background-color: green;
+    height:70px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display:flex;
+}
+h3{
+    text-align: right;
+}
